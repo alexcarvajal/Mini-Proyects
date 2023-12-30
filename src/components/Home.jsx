@@ -7,6 +7,12 @@ export const Home = () => {
       <Link to='/birthday'> Birthday </Link>
       <br />
       <Link to='/tours'> Tours </Link>
+      <br />
+      <Link to='/reviews'> Reviews </Link>
+      <br />
+      <Link to='/questions'> Questions </Link>
+      <br />
+      <Link to='/menu'> Menú </Link>
     </div>
   )
 }
