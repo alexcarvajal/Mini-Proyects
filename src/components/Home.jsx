@@ -13,6 +13,8 @@ export const Home = () => {
       <Link to='/questions'> Questions </Link>
       <br />
       <Link to='/menu'> Menú </Link>
+      <br />
+      <Link to='/tabs'> Tabs </Link>
     </div>
   )
 }
